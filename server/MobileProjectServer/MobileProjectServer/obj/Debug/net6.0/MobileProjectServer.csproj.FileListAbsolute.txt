@@ -1,0 +1,7 @@
+C:\Users\timon\OneDrive\Desktop\диплом\Проект\Сервер\MobileProjectServer\MobileProjectServer\obj\Debug\net6.0\MobileProjectServer.csproj.AssemblyReference.cache
+C:\Users\timon\OneDrive\Desktop\диплом\Проект\Сервер\MobileProjectServer\MobileProjectServer\obj\Debug\net6.0\MobileProjectServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timon\OneDrive\Desktop\диплом\Проект\Сервер\MobileProjectServer\MobileProjectServer\obj\Debug\net6.0\MobileProjectServer.AssemblyInfoInputs.cache
+C:\Users\timon\OneDrive\Desktop\диплом\Проект\Сервер\MobileProjectServer\MobileProjectServer\obj\Debug\net6.0\MobileProjectServer.AssemblyInfo.cs
+C:\Users\timon\OneDrive\Desktop\диплом\Проект\Сервер\MobileProjectServer\MobileProjectServer\obj\Debug\net6.0\MobileProjectServer.csproj.CoreCompileInputs.cache
+C:\Users\timon\OneDrive\Desktop\диплом\Проект\Сервер\MobileProjectServer\MobileProjectServer\obj\Debug\net6.0\MobileProjectServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\timon\OneDrive\Desktop\диплом\Проект\Сервер\MobileProjectServer\MobileProjectServer\obj\Debug\net6.0\MobileProjectServer.MvcApplicationPartsAssemblyInfo.cache
