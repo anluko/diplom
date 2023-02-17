@@ -6,17 +6,17 @@
 3. Вывод расположения пользователя на карте;
 4. Возможность добавления пользователей в друзья.
 
-![Диаграмма](file:///C:/Users/timon/OneDrive/Desktop/Study%20shit/%D0%92%D0%9F%D0%9A%D0%A1/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F/Use-case%20%D0%9B%D0%A01.png)
+![Диаграмма](https://github.com/anluko/screenshotes/blob/master/Use-case%20%D0%9B%D0%A01.png)
           
           Лабораторная работа №4.
       Схема переходов
 
-
+![Диаграмма](https://github.com/anluko/screenshotes/blob/master/Диаграмма%20потоков.png)
 
           Лабораторная работа №5.
       ER-диаграмма
 
-
+![Диаграмма](https://github.com/anluko/screenshotes/blob/master/Лабораторная%20Работа%205%20-%20ER%20.png)
 
           Лабораторная работа №6.
       Архитектура приложения
